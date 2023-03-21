@@ -1,0 +1,20 @@
+Which of the following defines a response assertions in Jmeter? --- Response Assertion help Validating tgat target app returns expected result
+Variables are local to a thread and ________are common to all threads and thread groups.
+Which of the following is not a configuration element in JMeter? ---TCP request default
+Its possible to get an aggregated response time of multiple samplers by placing them under ? ---Transaction controller
+if you need to limit the execution of specific samplers for a fixed span of time under which contolller should we group these samplers?--- Run time contorller
+you can modularize your testplan by calling additional scripts to be joined in your testplans flow by using ________ and a ______ ?---include controller, test fragment
+which variable should we use to read data into variables from an external data set file?
+its possible to enable a retriving the embeded resources by configuring it in the? 
+what makes Jmeter in a browser? ---None of those its not a browser.
+what is aim of performance testing?
+what elements functionality can be use to test plan to better simulate a real browser behavior?
+Arrange the following in  correct order of execution in jmeter script
+thread group is alwats process action inside chronological order? --- False
+What is an HTTp authorizatio manager used for?
+where does plugins mannager have to be saved ib jmeter folder structure?
+The difference between a timer and flow control is that a timer adds a delay before execution and each sampler has its scope where as timer will pause a delay when you hit it and only then regardless of scope
+can you get avariable to be populated with the content of certain property yes if how?
+what is pre requisite for a jmeter installation out of following options?
+what kind of vibility does the results tree allow 
+what will be execution order of elements? Regular expression extractor, response assertion, Http request, constant timer
